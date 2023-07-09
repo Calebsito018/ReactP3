@@ -1,0 +1,8 @@
+DOOKU
+TIPO DE LUMINARIA: Proyector Industrial
+SISTEMA ÓPTICO: Ópticas de Policarbonato
+DISTRIBUCIÓN DE LUZ: Variable con Ópticas Concentradoras - Simétricas
+MATERIALES: Cuerpo en Acero Disipadores Extrusión de Aluminio
+TRATAMIENTO DE SUPERFICIE: Pintura en polvo poliéster
+FUENTE DE LED: Externa Incorporada
+DRIVERS: Helvar / Philips

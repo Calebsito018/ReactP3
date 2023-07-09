@@ -1,0 +1,11 @@
+.carousel-caption{
+    width: 100%;
+    left: 0;
+}
+.carousel-caption p{
+    background-color: rgba(32, 32, 32, 0.655);
+    display: block;
+    color: #fff;
+    font-size: 1rem;
+    padding: 15px 0;
+}

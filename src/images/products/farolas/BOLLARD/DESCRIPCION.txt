@@ -1,0 +1,8 @@
+BOLLARD 
+TIPO DE LUMINARIA: Farola
+SISTEMA ÓPTICO: Difusor de policarbonato Opal Opto Max
+DISTRIBUCIÓN DE LUZ: Difusa - Simétrica
+MATERIALES: Cuerpo en Extrusión de Aluminio
+TRATAMIENTO DE SUPERFICIE: Pintura en polvo poliéster
+FUENTE DE LED: Interna Incorporada
+DRIVERS: Helvar / Philips

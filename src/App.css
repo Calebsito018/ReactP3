@@ -1,0 +1,124 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav-link{
+  font-size: 0.8rem;
+  color: #ffffff;
+  font-weight: 500;
+  border-radius: 25px;
+  padding:5px;
+}
+.nav-link:hover{
+  background-color: #ffffff;
+  border-radius: 25px;
+  color: rgb(0, 0, 0);
+}
+.nav-link:active{
+  outline: 2px #000000 dotted;
+}
+
+.dropdown-item{
+  color: #6c6c6c;
+  font-size: 0.8rem;
+}
+.dropdown-item:hover{
+  background-color:transparent;
+  font-weight: 500;
+  color: #000000;
+}
+
+.navbar-nav .show{
+  color: #000000;
+}
+
+.navbar-nav .show .nav-link:hover{
+  color: #ffffff;
+}
+.nav-link.active {
+  color: rgb(0, 0, 0) !important;
+}
+.nav-link.active:hover{
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+
+.container-fluid{
+  position: relative  ;
+}
+.cart-button{
+  border: none;
+  background-color: transparent;
+  position: absolute;
+  right: 60px;
+  bottom: 4px;
+  font-size: 1.3rem;
+  color: #ffffff;
+}
+.count{
+  font-size: 0.8rem;
+  margin-left: 1px;
+}
+.navbar-brand{
+  color: rgb(255, 255, 255);
+  transition: all 0.3s;
+}
+.navbar-brand:hover{
+  color: #ffffff;
+  transform: scale(1.01);
+}
+.offcanvas{
+  background-color: #212529;
+}
+.offcanvas-header{
+  background-color: #2f3437;
+
+}
+.offcanvas-title{
+  color: #ffffff;
+}
+.navbar-toggler{
+  color: white !important;
+  border: none;
+  box-shadow: none !important;
+}
+
+
+
+
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */

@@ -1,0 +1,6 @@
+VELA
+TIPO DE LUMINARIA: Farola
+SISTEMA ÓPTICO: Difusor de acero esmaltado
+DISTRIBUCIÓN DE LUZ: Indirecta - Asimétrica
+MATERIALES: Cuerpo de proyector de aluminio inyectado, soporte, columna Y pantalla de acero
+TRATAMIENTO DE SUPERFICIE: Pintura en polvo poliéster

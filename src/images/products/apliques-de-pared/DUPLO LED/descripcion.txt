@@ -1,0 +1,8 @@
+DUPLO LED
+TIPO DE LUMINARIA: Aplique de pared
+SISTEMA ÓPTICO: Ópticas y Difusor serigrafiado
+DISTRIBUCIÓN DE LUZ: Bidireccional - Simétrica
+MATERIALES: Cuerpo de inyección de aluminio
+TRATAMIENTO DE SUPERFICIE: Pintura en polvo poliéster
+FUENTE DE LED: Interna Incorporada
+DRIVERS: Helvar / Philips

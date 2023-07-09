@@ -1,0 +1,8 @@
+UFO
+TIPO DE LUMINARIA: Campana de led colgante / Aplique orientable
+SISTEMA ÓPTICO: Ópticas de policarbonato
+DISTRIBUCIÓN DE LUZ: Directa - Simétrica
+MATERIALES: Inyección de Aluminio
+TRATAMIENTO DE SUPERFICIE: Pintura en polvo poliéster
+FUENTE DE LED: Interna Incorporada Estanca
+DRIVERS: Lifud

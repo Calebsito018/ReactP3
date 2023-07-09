@@ -1,0 +1,7 @@
+MARE LED
+DRIVERS: Lucciola / Opcional Tridonic
+TIPO DE LUMINARIA: Hermética de Aplicar / Suspendida
+SISTEMA ÓPTICO: Difusor de Policarbonato Opal
+DISTRIBUCIÓN DE LUZ: Directa - Simétrica
+MATERIALES: Base y Difusor de Policarbonato Virgen
+FUENTE DE LED: Interna Incorporada

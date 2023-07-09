@@ -1,0 +1,8 @@
+FALCO LED
+TIPO DE LUMINARIA: Cabezal
+SISTEMA ÓPTICO: Reflector de aluminio brillante
+DISTRIBUCIÓN DE LUZ: Directa - Simétrica
+MATERIALES: Cuerpo de aluminio inyectado
+TRATAMIENTO DE SUPERFICIE: Pintura en polvo poliéster
+ACCESORIOS: Caja portaequipo en aluminio extruido, Adaptador para Rieles
+FUENTE DE LED: Externa

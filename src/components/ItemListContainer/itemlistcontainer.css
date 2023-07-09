@@ -1,0 +1,13 @@
+.card-container{
+    /* height: auto; */
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.card-container h2{
+    width: 100%;
+    text-align: center;
+    margin: 80px 0 40px;
+    font-size: 1.5rem;
+}
